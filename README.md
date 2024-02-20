@@ -9,7 +9,7 @@ Raw data files are required for scripts to run and are available on request
 
 # Project Details 
 
-The project contains all the data that was used to construct the paper figures. Individual models are split up for the generation of standard score profiles, TSNEs and UMAPs. Files are intended to be run sequentially within each subfolder. 
+The project contains all the data that was used to construct the paper figures. Individual models are split up for the generation of standard score profiles, TSNEs and UMAPs. Files are intended to be run sequentially within each subfolder within the RProject within each folder.  
 
 0. Z-Socre Heatmaps: _Z-Score Heatmap from all models_
 1. OIS: _Standard Score and Dim Reduction for OIS IMR90 model_
