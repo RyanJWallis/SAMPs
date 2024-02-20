@@ -3,7 +3,7 @@ An image-based phenotypic profiling method for evaluating the inter and intra-mo
 
 This project aimed to utilise high-content analysis (HCA) for the characterisation of senescent cells from multiple models. I demonstrated that sophisticated multiparameter morphological analysis can be used to distinguish senescent cells and explore the heterogeneity of individual models. 
 
-![SAMP](https://RyanJWallis.github.io/assets/img/SAMP_Large.png){: .mx-auto.d-block :}
+<strong><a href="https://pubmed.ncbi.nlm.nih.gov/35580013/">Go to the Paper</a>
 
 # Project Details 
 The project contains all the data that was used to construct the paper figures. Individual models are split up for the generation of standard score profiles, TSNEs and UMAPs. Files are intended to be run sequentially within each subfolder. 
