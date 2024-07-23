@@ -5,7 +5,7 @@ This project aimed to utilise high-content analysis (HCA) for the characterisati
 
 **<a href="https://pubmed.ncbi.nlm.nih.gov/35580013/">Go to the Paper</a>**
 
-Raw data files are required for scripts to run and are available on request
+Raw data files are required for scripts to run and are available on request (r.wallis@qmul.ac.uk)
 
 # Project Details 
 
